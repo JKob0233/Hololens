@@ -1,0 +1,17 @@
+M:\Hololens\MicrosoftTutorial\MixedRealityIntroduction\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x86\Release\Assembly-CSharp-firstpass.dll
+M:\Hololens\MicrosoftTutorial\MixedRealityIntroduction\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x86\Release\Assembly-CSharp-firstpass.pdb
+M:\Hololens\MicrosoftTutorial\MixedRealityIntroduction\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x86\Release\Assembly-CSharp-firstpass.pri
+M:\Hololens\MicrosoftTutorial\MixedRealityIntroduction\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+M:\Hololens\MicrosoftTutorial\MixedRealityIntroduction\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.dll
+M:\Hololens\MicrosoftTutorial\MixedRealityIntroduction\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.pdb
+M:\Hololens\MicrosoftTutorial\MixedRealityIntroduction\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\priconfig.xml
+M:\Hololens\MicrosoftTutorial\MixedRealityIntroduction\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\priconfig.xml.intermediate
+M:\Hololens\MicrosoftTutorial\MixedRealityIntroduction\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\layout.resfiles
+M:\Hololens\MicrosoftTutorial\MixedRealityIntroduction\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\layout.resfiles.intermediate
+M:\Hololens\MicrosoftTutorial\MixedRealityIntroduction\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\resources.resfiles
+M:\Hololens\MicrosoftTutorial\MixedRealityIntroduction\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\resources.resfiles.intermediate
+M:\Hololens\MicrosoftTutorial\MixedRealityIntroduction\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\pri.resfiles
+M:\Hololens\MicrosoftTutorial\MixedRealityIntroduction\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\pri.resfiles.intermediate
+M:\Hololens\MicrosoftTutorial\MixedRealityIntroduction\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\qualifiers.txt
+M:\Hololens\MicrosoftTutorial\MixedRealityIntroduction\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\qualifiers.txt.intermediate
+M:\Hololens\MicrosoftTutorial\MixedRealityIntroduction\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\MultipleQualifiersPerDimensionFound.txt

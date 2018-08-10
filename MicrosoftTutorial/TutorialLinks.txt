@@ -1,0 +1,9 @@
+MR Basics 100: Getting started with Unity:
+https://docs.microsoft.com/en-us/windows/mixed-reality/holograms-100
+
+
+Notes:
+Need elevated privileges on this machine to run HoloLensEmulator
+Visual Studio Professional 2015 expires Nov 2018. Need liscence or elevated privileges to install Visual Studio Community.
+Unable to deploy apps to Hololens over WIFI for both Unity and Visual Studio.
+Seems to need elevated privileges for deploying over USB
